@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SeminarioSistemas</string>
+    <string name="lastname">Perez</string>
+    <string name="address">Real Audiencia</string>
+    <string name="phone">09671234</string>
+    <string name="email">andres@mail.com</string>
+    <string name="fullName">Edwin Andres Perez</string>
+    <string name="secon_lastname">Pereira</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
